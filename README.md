@@ -1,3 +1,19 @@
+# Proyecto Electiva DisciplinarII -Backend
+
+## Integrantes:
+
+1. Luis Adolfo Fontalvo Sanjuan [@luisfontalvo](https://github.com/luisfontalvo)
+
+## Sprint # 1:
+
+### Historias de Usuario
+
+[ED-001](https://bl6pap003files.storage.live.com/y4mReTihCfqrj6YoHTiMz0lczzRXGRe42QTAS2u3vT_bpZoA94IS2swNHKSKIy8Q4rHR-yGHjW881n9CLDmgYpzqnZgWbzkkJ3pF7gdylcp_ceOPfgMT1fuMAzYi7pOQU8dnRTeVkWSzBrj7HiVyglBh-_iLfdaUSiVP4Ddy6L__AbvzX_nbbEAzFcHq0whILswFqn3cNSyapFjv2FXlfTNK1Vht7RZsha_9pXfI45V_HU?encodeFailures=1&width=747&height=611)
+
+### Historias de Técnica
+
+[ED-002](https://bl6pap003files.storage.live.com/y4mO8c8z-QBCqrjoXaewnWM_c4y4meJNau1y7NNspKlVsEHhxAE5MaKxMZ45-TArh-MdVQv8PK8x9sfQYOH3gMSzc6Bwv4zAcepzyTzVwCk3bS6LzItLPzLWadyynUKGIYBhdKD9kTLejoqsSmnuKg_nN9qWZeh72EO-ExjMvnfdN531Y7QZH7ruPILu43KFXERLNwpedWb3OMXDvsjw78j9meLxIliSoDXJ_EslKsSQng?encodeFailures=1&width=824&height=618)
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
